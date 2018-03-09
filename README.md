@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Darrien's Website
 
-You can use the [editor on GitHub](https://github.com/XxDjmiller2014xX/XxDjmiller2014xX.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is just my test website I've created via GitHub. I created this website through my ACE class (Advanced Computer Engineering) at the Career and Technology Center at Fort Osage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Scrolling through this website you will see I did my best to make changes and understand the coding behind my website without breaking it like I do allot of things.
 
 ### Markdown
 
